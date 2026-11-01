@@ -1,5 +1,6 @@
 # Restaurant panic! 
-This is a series of restaurant-themed minigames inspired by Warioware minigames. There are three 
+This is a series of restaurant-themed minigames inspired by Warioware minigames. There are three different minigames!
+The project was made on Godot using GDScript! 
 
 # Try it on itch.io: https://webghost.itch.io/restaurant-panic
 
@@ -19,12 +20,14 @@ This is a series of restaurant-themed minigames inspired by Warioware minigames.
 
 
 # Minigames 
+
 <ol>
-<li> <b>First minigame:</b> a platformer minigame where you collect burgers that are scattered around the screen, using the arrow keys and spacebar.    </li>
-<li> <b>Second minigame:</b> a clicker minigame where you use your mouse/trackpad to click on cheques scattered around the screen</li>
+<li> <b>First minigame:</b> a platformer minigame where you collect 4 burgers that are scattered around the screen, using the arrow keys and spacebar.    </li>
+<li> <b>Second minigame:</b> a clicker minigame where you use your mouse/trackpad to click on cheques scattered around the screen, click on all 4 to win.</li>
 <li><b>Third minigame:</b> a minigame where you use your arrow keys to match the arrows on the screen</li>
   
 </ol>
+You must complete the objective for each minigame before the timer runs out, or you lose a life!
 
 # Credits
 All art and music in the game was made by me, Webghost.
